@@ -1,1 +1,2 @@
 praktis from remote repo to local
+dagdag ng line pang test
